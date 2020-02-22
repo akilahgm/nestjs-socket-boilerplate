@@ -1,10 +1,15 @@
-# ByBus Driver Booking Microservice
+# Web socket server build using nestjs
 
 ## Installation
 
 ```bash
 $ npm install
 ```
+
+```bash
+$ First change namespaces as you need. 
+```
+
 
 ## Running the app
 
