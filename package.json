@@ -67,5 +67,12 @@
     },
     "coverageDirectory": "./coverage",
     "testEnvironment": "node"
-  }
+  },
+  "keywords": [
+    "nestjs",
+    "web socket",
+    "socket",
+    "dynamic room",
+    "socket server"
+  ]
 }
